@@ -1,0 +1,35 @@
+# Ignore Pods
+Pods/
+
+# Ignore Xcode workspace files
+*.xcworkspace
+*.xcuserdata
+*.xcuserstate
+
+# Ignore build products
+build/
+*.build/
+
+# Swift Package Manager
+/.build/
+/Package.resolved
+
+# Xcode
+*.xcodeproj/
+*.xcodeproj/project.xcworkspace/
+
+# macOS specific
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Node.js dependencies
+node_modules/
+
+# Logs
+npm-debug.log
+yarn-debug.log
+yarn-error.log
+
+# Environment variables files
+.env
