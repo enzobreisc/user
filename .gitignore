@@ -84,3 +84,5 @@ fastlane/readme.md
 
 # Code Injection by AppCode
 .idea/
+
+echo ".DS_Store" >> .gitignore
